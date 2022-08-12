@@ -6,6 +6,7 @@
 <br>
 👨🏽‍💻 2022 Goals: Improve my MERN skills, and build some projects for fun.
 <br>
+<br>
 🛠 Tech Stack:
 <br>
 💻   React | MongoDB | ExpressJs | NodeJs
