@@ -19,3 +19,10 @@
 🔧   Visual Studio code | Git
 <br>
 <img src="https://camo.githubusercontent.com/15a941de170f97b2fef82fe902bdb29c2089bbf18ec21b0131e96081499db821/68747470733a2f2f692e696d6775722e636f6d2f717137774d57342e706e67"/>
+<br>
+<img src="https://www.codewars.com/users/lluisllc/badges/large"/>
+
+
+
+
+
