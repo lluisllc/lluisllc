@@ -22,7 +22,8 @@
 <br>
 <img src="https://www.codewars.com/users/lluisllc/badges/large"/>
 <br>
-<a url="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">
+<a href="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">Crypto Zombie!</a>
+
 
 
 
