@@ -22,8 +22,10 @@
 <br>
 <img src="https://www.codewars.com/users/lluisllc/badges/large"/>
 <br>
-<a href="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">Crypto Zombie!</a>
-
+<a href="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">
+<img alt="Zombie" src="/descargas/cryptoZombie.png"
+         width=150" height="70">
+</a>
 
 
 
