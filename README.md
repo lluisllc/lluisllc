@@ -23,7 +23,7 @@
 <img src="https://www.codewars.com/users/lluisllc/badges/large"/>
 <br>
 <a href="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">
-<img src="https://cryptozombies.io/images/feature-collectibles-54ace62f.webp" />
+<img src="https://user-images.githubusercontent.com/13703497/69648502-c8f3db80-10ae-11ea-9d52-ce4d4bbc426a.jpeg" />
 </a>
 
 
