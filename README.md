@@ -23,8 +23,7 @@
 <img src="https://www.codewars.com/users/lluisllc/badges/large"/>
 <br>
 <a href="https://share.cryptozombies.io/es/lesson/1/share/lluisllc?id=Y3p8NTQ5MDk4">
-<img src="https://cryptozombies.io/images/feature-collectibles-54ace62f.webp"
-    alt="Zombie" width=150" height="70" >
+<img src="https://cryptozombies.io/images/feature-collectibles-54ace62f.webp" />
 </a>
 
 
